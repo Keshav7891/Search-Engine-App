@@ -5,3 +5,5 @@
 2) It offers three types of searches 'Contains' , 'Starts With' , 'Ends With'.
 3) Re-index saves a local copy of the index for quick re-use. This makes subsequent searches nearly instant.
 4) Search results are both printed to screen and exported to a text file in the working directory.
+
+![](https://github.com/Keshav7891/Search-Engine-App/blob/main/demo.PNG?raw=true)
