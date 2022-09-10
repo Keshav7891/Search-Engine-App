@@ -1,0 +1,7 @@
+D:/Projects/Chat Analyzer/preprocessor.py
+D:/Projects/Chat Analyzer/venv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/markdown/preprocessors.pyi
+D:/Projects/Chat Analyzer/__pycache__/preprocessor.cpython-37.pyc
+D:/Projects/Chat Analyzer/__pycache__/preprocessor.cpython-39.pyc
+D:/Projects/pythonProject/preprocessor.py
+D:/Projects/pythonProject1/preprocessor.py
+D:/Projects/pythonProject1/venv/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3/markdown/preprocessors.pyi
